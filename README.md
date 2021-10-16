@@ -2,8 +2,8 @@
 
 - 🔭 Hoje trabalho em monitoramento com elastic search/kibana, zabbix e pagerduty
 - 🌱 Estudando Front-End
-- 📫 How to reach me: nicholasgalante@hotmail.co.uk
-- 😄 Pronome: ele/dele
+- 📫 Onde me achar: nicholasgalante@hotmail.co.uk
+- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/Nickgalant">
