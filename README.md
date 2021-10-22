@@ -1,6 +1,6 @@
 ### Olá eu sou o Nicholas Galante.. 👋
 
-- 🔭 Hoje trabalho em monitoramento com elastic search/kibana, zabbix e pagerduty
+- 🔭 Hoje trabalho em análise e monitoramento de dados com elastic search/kibana, zabbix e pagerduty
 - 🌱 Estudando Front-End
 - 📫 Onde me achar: nicholasgalante@hotmail.co.uk
 - 😄 Pronomes: ele/dele
