@@ -1,4 +1,4 @@
-### Olá eu sou o Nicholas Galante.. 👋
+### Hi I am Nicholas Galante.. 👋
 
 - 🔭 Working as an Infrastructure and API Monitoring Analyst with elastic search/kibana, zabbix and pagerduty
 - 🌱 Studying Front-End Developer
