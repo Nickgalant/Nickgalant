@@ -1,9 +1,9 @@
 ### Olá eu sou o Nicholas Galante.. 👋
 
-- 🔭 Hoje trabalho em análise e monitoramento de dados com elastic search/kibana, zabbix e pagerduty
-- 🌱 Estudando Front-End
-- 📫 Onde me achar: nicholasgalante@hotmail.co.uk
-- 😄 Pronomes: ele/dele
+- 🔭 Working as an Infrastructure and API Monitoring Analyst with elastic search/kibana, zabbix and pagerduty
+- 🌱 Studying Front-End Developer
+- 📫 Find me: nicholasgalante@hotmail.co.uk
+- 😄 Pronoun: he/him
 
 <div>
   <a href="https://github.com/Nickgalant">
